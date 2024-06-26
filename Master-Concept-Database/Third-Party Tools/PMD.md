@@ -1,0 +1,1 @@
+PMD is a source code analyser which finds common programming flaws like unused variables, empty cache blocks and unnecessary object creation. 

@@ -1,0 +1,1 @@
+Continuous Assurance (CA) checks the 'drift' from a secure snapshot of the system. It treats it as a secure state rather than just a point in time' image.

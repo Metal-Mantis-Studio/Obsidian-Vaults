@@ -1,0 +1,2 @@
+[[Kanban]], meaning 'visual signal' in Japanese is an [[Agile Methodology]] and scheduling system utilising a card system where cards are categories by their state in development
+![[Pasted image 20230801101642.png]]

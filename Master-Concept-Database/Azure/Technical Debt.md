@@ -1,0 +1,2 @@
+Technical Debt is a set of problems during development that make progression significantly harder. This includes making code hard to understand, fragile, time-consuming to change and difficult to validate. 
+[[Sonar Qube]] is an open-source platform for continuous inspection of code quality and automatic reviews. 

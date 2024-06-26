@@ -1,0 +1,5 @@
+---
+tags: SQL
+---
+
+## Useful Queries

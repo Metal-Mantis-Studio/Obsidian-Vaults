@@ -1,0 +1,1 @@
+Jenkins is an open-source automation server that facilitates [[Continuous Integration & Continuous Deployment (CI-CD)]] processes, automating the building, testing, and deployment of software applications.

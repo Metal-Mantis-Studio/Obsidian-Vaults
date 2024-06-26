@@ -1,0 +1,1 @@
+Flaky tests are those which produce inconsistent results given an identical environment and variables. Within [[Azure Pipeline]]s you can enable [[Flaky Test]] Detection which will help identify the root issue. 

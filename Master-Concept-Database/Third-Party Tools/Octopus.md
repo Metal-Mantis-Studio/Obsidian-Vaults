@@ -1,0 +1,2 @@
+Octopus Deploy is a deployment automation tool that simplifies and streamlines the release and deployment of applications to various environments, including on-premises servers, cloud platforms, and [[Containers]].
+Octopus handles the Release section of [[Azure Pipeline]], whilst [[Jenkins]] handles the build section

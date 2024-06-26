@@ -1,0 +1,7 @@
+CMMI stands for Capability Maturity Model Integration. It is a process improvement framework that provides guidance for organizations to enhance their processes and practices for delivering quality products and services. CMMI is used to improve the effectiveness, efficiency, and performance of an organization's processes by fostering a culture of continuous improvement.
+
+![[Pasted image 20230801154707.png]]
+
+CMMI is organized into maturity levels and capability levels. Maturity levels represent a staged approach to process improvement, where each level builds upon the previous one, leading to a more mature and disciplined process. Capability levels, on the other hand, represent the incremental improvements in specific process areas.
+
+CMMI provides a framework for organizations to assess their current processes, identify areas for improvement, and implement best practices to achieve higher levels of process maturity. By adopting CMMI, organizations can enhance their ability to manage projects, deliver high-quality products and services, and achieve better performance and customer satisfaction. It is widely used in industries such as software development, engineering, and government contracting, where process improvement and quality assurance are crucial.

@@ -1,0 +1,3 @@
+Kubernetes (K8s) is an open-source container orchestration platform by Google which is designed to automate the deployment, scaling and management of containerised applications. It manages the scheduling and deployment of [[Docker]] [[Containers]] across a cluster of machines ensuring they match the desired state defined by the Kubernetes manifest
+Applications can be automatically scaled based on resource utilisation or user-defined metrics by scaling up or down.
+Kubernetes is self-healing so when a container's health fails then it is automatically restarted until it's healthy. It also allows Rolling Updates as well as Rollbacks resulting in minor to no downtime when migrating. It also allows Storage Orchestration with volume mounting.
